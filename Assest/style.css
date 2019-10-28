@@ -203,10 +203,6 @@ video#bgvid {
 
 
 
-/* C V */
-
-
-
 #cv{
 	padding-top: 80px;
 	padding-bottom: 80px;
@@ -281,7 +277,7 @@ video#bgvid {
 }
 
 #portfolio img{
-	max-width: 100%;
+    max-width: 100%;
 }
 
 #portfolio .row > div{
