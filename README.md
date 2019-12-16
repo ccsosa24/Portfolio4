@@ -2,4 +2,6 @@
 
 Updated Portfolio
 
-file:///Users/Sosa/Portfolio4/index.html
+Users/Sosa/Portfolio4/index.html
+
+
